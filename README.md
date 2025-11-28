@@ -3,7 +3,8 @@
 *Using ESP32, DHT20, MQ-135, OLED, Buzzer, and ThingSpeak*
 
 > Team YZ — UCI CS147 Internet of Things Final Project
->  Members: Qizhi Tian & Jiatong Liu
+>
+> Members: Qizhi Tian & Jiatong Liu
 
 ## Overview
 
