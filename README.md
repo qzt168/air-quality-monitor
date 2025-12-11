@@ -30,7 +30,7 @@ The system helps users take immediate actions—open a window, use a fan, or tur
 
 ## System Architecture
 
-![alt text](image.png)
+![alt text](architecture.png)
 
 **Communication Protocol:**
 
