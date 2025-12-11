@@ -7,12 +7,12 @@
 #include <TFT_eSPI.h>
 
 // Wi-Fi credentials
-#define WIFI_SSID     "YiliniPhone"
-#define WIFI_PASSWORD "l18602313783"
+#define WIFI_SSID     "WIFI_SSID"
+#define WIFI_PASSWORD "WIFI_PASSWORD"
 
 // ThingSpeak configuration
 // One channel corresponds to one API key, and field1/2/3 is mapped to different data
-const char *THINGSPEAK_API_KEY = "Q2KNH7BRK7LVZ451";
+const char *THINGSPEAK_API_KEY = "API_KEY";
 const char *THINGSPEAK_URL     = "http://api.thingspeak.com/update";
 
 // Sensor and GPIO pins
